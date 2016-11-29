@@ -1,8 +1,8 @@
 {
   "name": "fivebeans",
   "description": "beanstalkd client & worker daemon for node.",
-  "version": "1.5.0",
-  "author": "C J Silverio <ceejceej@gmail.com>",
+  "version": "1.5.1",
+  "author": "C J Silverio <ceejceej@gmail.com>, AfterShip <support@aftership.com>",
   "bin": {
     "beanworker": "./bin/beanworker"
   },
