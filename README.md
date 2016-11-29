@@ -1,3 +1,7 @@
+AfterShip fork of fivebeans client. Original readme below.
+
+---
+
 A straightforward and (nearly) complete [beanstalkd](http://kr.github.com/beanstalkd/) client for node.js, along with a more opinionated beanstalkd jobs worker & runner.
 
 [![on npm](http://img.shields.io/npm/v/fivebeans.svg?style=flat)](https://www.npmjs.org/package/fivebeans)  [![Tests](http://img.shields.io/travis/ceejbot/fivebeans.svg?style=flat)](http://travis-ci.org/ceejbot/fivebeans) [![Coverage Status](https://img.shields.io/coveralls/ceejbot/fivebeans.svg?style=flat)](https://coveralls.io/github/ceejbot/fivebeans?branch=master) [![Dependencies](http://img.shields.io/david/ceejbot/fivebeans.svg?style=flat)](https://david-dm.org/ceejbot/fivebeans)
