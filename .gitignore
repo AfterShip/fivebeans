@@ -3,3 +3,9 @@ node_modules
 .DS_Store
 test/coverage.html
 .nyc_output
+
+# ------------------------------------------------------------------------------
+# for aftership-publish making use of https://github.com/inikulin/publish-please
+# ------------------------------------------------------------------------------
+.publishrc
+.npmignore
