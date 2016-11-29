@@ -1,12 +1,12 @@
 {
   "name": "@aftership/fivebeans",
   "description": "beanstalkd client & worker daemon for node.",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "author": "C J Silverio <ceejceej@gmail.com>, AfterShip <support@aftership.com>",
   "bin": {
     "beanworker": "./bin/beanworker"
   },
-  "bugs": "http://github.com/ceejbot/fivebeans/issues",
+  "bugs": "http://github.com/aftership/fivebeans/issues",
   "contributors": [
     "Jon Keating <jon@licq.org>",
     "Jevgenij Tsoi <jevgenij@virtusize.com>"
@@ -24,7 +24,7 @@
     "must": "~0.13.2",
     "nyc": "~8.1.0"
   },
-  "homepage": "https://github.com/ceejbot/fivebeans#readme",
+  "homepage": "https://github.com/aftership/fivebeans#readme",
   "keywords": [
     "beanstalkd",
     "jobs",
@@ -35,7 +35,7 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ceejbot/fivebeans.git"
+    "url": "git://github.com/aftership/fivebeans.git"
   },
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov | coveralls",
